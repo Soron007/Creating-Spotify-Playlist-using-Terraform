@@ -1,4 +1,4 @@
-'ve Automated Spotify Playlist Creation with Terraform! 🎶
+I've Automated Spotify Playlist Creation with Terraform! 🎶
 
 I'm thrilled to share a recent project where I combined my passion for music with infrastructure as code. Using Terraform and the Spotify Provider, I automated the creation of Spotify playlists! 🎧
 
